@@ -1,4 +1,4 @@
-# Combination Generator
+# Bruteforce Algorithm Generator
 
 A simple script that generates all possible combinations of characters from a string of your choice. The script can generate combinations of a specified length range and will display the combinations in real-time, along with some additional information about the generation process.
 
